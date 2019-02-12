@@ -5,7 +5,7 @@ The downloader crawls https://www.ysts8.com for audio sources of all 11 seasons 
 
 After downloading, a "download_report.txt" would be generated in current folder.
 
-Please note that you need selenium webdrivers to be installed in your current python env in order for the downloader to work.
+Please note that you need selenium webdrivers to be installed in your current python env in order for the downloader to work. The downloader uses webdriver for Chrome, therefore Chrome should be installed as well.
 https://github.com/SeleniumHQ/selenium/tree/master/py#drivers
 
 You are advised to use the downloader in a virtual environment created with the requirements.txt file.
